@@ -1,0 +1,100 @@
+{
+    "bronze": {
+        "id": "bronze",
+        "image": "item_bronze",
+        "value": 10,
+        "name": "предмет",
+        "description": "описание предмета"
+    },
+    "coal": {
+        "id": "coal",
+        "image": "item_coal",
+        "value": 10,
+        "name": "предмет",
+        "description": "описание предмета"
+    },
+    "gem_0": {
+        "id": "gem_0",
+        "image": "item_gem_0",
+        "value": 10,
+        "name": "предмет",
+        "description": "описание предмета"
+    },
+    "gem_1": {
+        "id": "gem_1",
+        "image": "item_gem_1",
+        "value": 10,
+        "name": "предмет",
+        "description": "описание предмета"
+    },
+    "gem_2": {
+        "id": "gem_2",
+        "image": "item_gem_2",
+        "value": 10,
+        "name": "предмет",
+        "description": "описание предмета"
+    },
+    "gem_3": {
+        "id": "gem_3",
+        "image": "item_gem_3",
+        "value": 10,
+        "name": "предмет",
+        "description": "описание предмета"
+    },
+    "gem_4": {
+        "id": "gem_4",
+        "image": "item_gem_4",
+        "value": 10,
+        "name": "предмет",
+        "description": "описание предмета"
+    },
+    "gem_5": {
+        "id": "gem_5",
+        "image": "item_gem_5",
+        "value": 10,
+        "name": "предмет",
+        "description": "описание предмета"
+    },
+    "gold_coin": {
+        "id": "gold_coin",
+        "image": "item_gold_coin",
+        "value": 10,
+        "name": "предмет",
+        "description": "описание предмета"
+    },
+    "iron": {
+        "id": "iron",
+        "image": "item_iron",
+        "value": 10,
+        "name": "предмет",
+        "description": "описание предмета"
+    },
+    "malachite": {
+        "id": "malachite",
+        "image": "item_malachite",
+        "value": 10,
+        "name": "предмет",
+        "description": "описание предмета"
+    },
+    "skullface_horn": {
+        "id": "skullface_horn",
+        "image": "item_skullface_horn",
+        "value": 10,
+        "name": "предмет",
+        "description": "описание предмета"
+    },
+    "red_wing": {
+        "id": "red_wing",
+        "image": "item_red_wing",
+        "value": 10,
+        "name": "предмет",
+        "description": "описание предмета"
+    },
+    "iron_heart": {
+        "id": "iron_heart",
+        "image": "item_iron_heart",
+        "value": 10,
+        "name": "предмет",
+        "description": "описание предмета"
+    }
+}
