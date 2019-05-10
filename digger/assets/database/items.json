@@ -1,100 +1,63 @@
 {
-    "bronze": {
-        "id": "bronze",
-        "image": "item_bronze",
-        "value": 10,
-        "name": "предмет",
-        "description": "описание предмета"
-    },
-    "coal": {
-        "id": "coal",
+    "1": {
+        "id": 1,
         "image": "item_coal",
-        "value": 10,
-        "name": "предмет",
-        "description": "описание предмета"
+        "value": 1
     },
-    "gem_0": {
-        "id": "gem_0",
-        "image": "item_gem_0",
-        "value": 10,
-        "name": "предмет",
-        "description": "описание предмета"
+    "2": {
+        "id": 2,
+        "image": "item_bronze",
+        "value": 2
     },
-    "gem_1": {
-        "id": "gem_1",
-        "image": "item_gem_1",
-        "value": 10,
-        "name": "предмет",
-        "description": "описание предмета"
-    },
-    "gem_2": {
-        "id": "gem_2",
-        "image": "item_gem_2",
-        "value": 10,
-        "name": "предмет",
-        "description": "описание предмета"
-    },
-    "gem_3": {
-        "id": "gem_3",
-        "image": "item_gem_3",
-        "value": 10,
-        "name": "предмет",
-        "description": "описание предмета"
-    },
-    "gem_4": {
-        "id": "gem_4",
-        "image": "item_gem_4",
-        "value": 10,
-        "name": "предмет",
-        "description": "описание предмета"
-    },
-    "gem_5": {
-        "id": "gem_5",
-        "image": "item_gem_5",
-        "value": 10,
-        "name": "предмет",
-        "description": "описание предмета"
-    },
-    "gold_coin": {
-        "id": "gold_coin",
-        "image": "item_gold_coin",
-        "value": 10,
-        "name": "предмет",
-        "description": "описание предмета"
-    },
-    "iron": {
-        "id": "iron",
-        "image": "item_iron",
-        "value": 10,
-        "name": "предмет",
-        "description": "описание предмета"
-    },
-    "malachite": {
-        "id": "malachite",
+    "3": {
+        "id": 3,
         "image": "item_malachite",
-        "value": 10,
-        "name": "предмет",
-        "description": "описание предмета"
+        "value": 5
     },
-    "skullface_horn": {
-        "id": "skullface_horn",
-        "image": "item_skullface_horn",
-        "value": 10,
-        "name": "предмет",
-        "description": "описание предмета"
+    "4": {
+        "id": 4,
+        "image": "item_chest",
+        "value": 0
     },
-    "red_wing": {
-        "id": "red_wing",
-        "image": "item_red_wing",
-        "value": 10,
-        "name": "предмет",
-        "description": "описание предмета"
+    "5": {
+        "id": 5,
+        "image": "item_gem_0",
+        "value": 5
     },
-    "iron_heart": {
-        "id": "iron_heart",
+    "6": {
+        "id": 6,
+        "image": "item_gem_1",
+        "value": 10
+    },
+    "7": {
+        "id": 7,
+        "image": "item_gem_2",
+        "value": 20
+    },
+    "8": {
+        "id": 8,
+        "image": "item_gem_3",
+        "value": 50
+    },
+    "9": {
+        "id": 9,
+        "image": "item_gem_4",
+        "value": 100
+    },
+    "10": {
+        "id": 10,
+        "image": "item_gem_5",
+        "value": 500
+    },
+    "11": {
+        "id": 11,
         "image": "item_iron_heart",
-        "value": 10,
-        "name": "предмет",
-        "description": "описание предмета"
+        "value": 5
+    },
+    "12": {
+        "id": 12,
+        "image": "item_iron",
+        "value": 5
     }
+
 }

@@ -3,73 +3,12 @@
         "levels": [
             {
                 "meta": "island 1 level 1",
-                "background": "island_0_level_0_background",
-                "rocks": ["rock_0", "rock_1", "rock_2", "rock_3", "rock_4", "rock_5"],
-                "rock_hp_min": 1,
-                "rock_hp_max": 1
-            },
-            {
-                "meta": "island 1 level 2",
-                "background": "island_0_level_0_background",
-                "rocks": ["rock_0", "rock_1", "rock_2", "rock_3", "rock_4", "rock_5"],
-                "rock_hp_min": 1,
-                "rock_hp_max": 1
-            },
-            {
-                "meta": "island 1 level 3",
-                "background": "island_0_level_0_background",
-                "rocks": ["rock_0", "rock_1", "rock_2", "rock_3", "rock_4", "rock_5"],
-                "rock_hp_min": 1,
-                "rock_hp_max": 1
-            },
-            {
-                "meta": "island 1 level 4",
-                "background": "island_0_level_0_background",
-                "rocks": ["rock_0", "rock_1", "rock_2", "rock_3", "rock_4", "rock_5"],
-                "rock_hp_min": 2,
-                "rock_hp_max": 2
-            },
-            {
-                "meta": "island 1 level 5",
-                "background": "island_0_level_0_background",
-                "rocks": ["rock_0", "rock_1", "rock_2", "rock_3", "rock_4", "rock_5"],
-                "rock_hp_min": 2,
-                "rock_hp_max": 2
-            },
-            {
-                "meta": "island 1 level 6",
-                "background": "island_0_level_6_background",
-                "rocks": ["rock_6", "rock_7", "rock_8", "rock_9", "rock_10", "rock_11"],
-                "rock_hp_min": 2,
-                "rock_hp_max": 2
-            },
-            {
-                "meta": "island 1 level 7",
-                "background": "island_0_level_7_background",
-                "rocks": ["rock_6", "rock_7", "rock_8", "rock_9", "rock_10", "rock_11"],
-                "rock_hp_min": 3,
-                "rock_hp_max": 3
-            },
-            {
-                "meta": "island 1 level 8",
-                "background": "island_0_level_7_background",
-                "rocks": ["rock_6", "rock_7", "rock_8", "rock_9", "rock_10", "rock_11"],
-                "rock_hp_min": 3,
-                "rock_hp_max": 3
-            },
-            {
-                "meta": "island 1 level 9",
-                "background": "island_0_level_7_background",
-                "rocks": ["rock_6", "rock_7", "rock_8", "rock_9", "rock_10", "rock_11"],
-                "rock_hp_min": 3,
-                "rock_hp_max": 3
-            },
-            {
-                "meta": "island 1 level 10",
-                "background": "island_0_level_10_background",
-                "rocks": ["rock_12", "rock_13", "rock_14", "rock_15"],
-                "rock_hp_min": 4,
-                "rock_hp_max": 4
+                "surface_background":"top1_bg",
+                "host":"host1",
+                "background": "tier1_bg",
+                "bet_bg": "tier1_bet_bg",
+                "bet":0.01,
+                "rocks": ["1tier_stone1", "1tier_stone2", "1tier_stone3", "1tier_stone4"]
             }
         ]
     }
