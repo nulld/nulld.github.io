@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="114px" height="24px" viewBox="0 0 114 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>gs_button_loginwithscatter_gray_small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="gs_button_loginwithscatter_gray_small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#F3F6F8">
+            <path d="M4,0 L110,0 C112.209139,-4.05812251e-16 114,1.790861 114,4 L114,20 C114,22.209139 112.209139,24 110,24 L4,24 C1.790861,24 2.705415e-16,22.209139 0,20 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle-Copy-42"></path>
+        </g>
+        <text id="Login-with-Scatter" font-family="Roboto-Bold, Roboto" font-size="12" font-weight="bold" fill="#00A8FF">
+            <tspan x="9" y="16">Login with Scatter</tspan>
+        </text>
+    </g>
+</svg>

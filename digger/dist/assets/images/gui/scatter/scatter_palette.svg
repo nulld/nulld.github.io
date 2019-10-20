@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640px" height="280px" viewBox="0 0 640 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>scatter_palette</title>
+    <desc>Created with Sketch.</desc>
+    <g id="scatter_palette" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-3" fill="#00A8FF" x="0" y="0" width="640" height="280"></rect>
+        <rect id="Rectangle-Copy-7" fill="#078CE9" x="280" y="0" width="360" height="140"></rect>
+        <rect id="Rectangle-Copy-4" fill="#F3F6F8" x="0" y="0" width="280" height="280"></rect>
+        <rect id="Rectangle-Copy-6" fill="#FFFFFF" x="0" y="140" width="280" height="140"></rect>
+        <rect id="Rectangle-Copy-5" fill="#111111" x="0" y="0" width="140" height="280"></rect>
+        <text id="#111111" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#FFFFFF">
+            <tspan x="34.1572266" y="147">#111111</tspan>
+        </text>
+        <text id="#F3F6F8" opacity="0.244070871" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#111111">
+            <tspan x="171.855957" y="77">#F3F6F8</tspan>
+        </text>
+        <text id="#FFFFFF" opacity="0.244070871" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#111111">
+            <tspan x="172.554688" y="217">#FFFFFF</tspan>
+        </text>
+        <text id="#078CE9" opacity="0.358072917" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#FFFFFF">
+            <tspan x="416.033203" y="77">#078CE9</tspan>
+        </text>
+        <text id="#00A8FF" opacity="0.358072917" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#FFFFFF">
+            <tspan x="416.230957" y="217">#00A8FF</tspan>
+        </text>
+    </g>
+</svg>
