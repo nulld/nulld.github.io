@@ -18,7 +18,7 @@
         "host":"host1",
         "background": "tier3_bg",
         "bet_bg": "tier2_bet_bg",
-        "bet":1.0,
+        "bet":0.1,
         "rocks": ["3tier_stone1", "3tier_stone2", "3tier_stone3", "3tier_stone4"]
     },
     {
