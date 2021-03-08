@@ -29,17 +29,18 @@
   <title>fabula_app</title>
   <link rel="manifest" href="manifest.json">
 </head>
-<body>
-  <!-- This script installs service_worker.js to provide PWA functionality to
-       application. For more information, see:
-       https://developers.google.com/web/fundamentals/primers/service-workers -->
+<body style="width:100%; height: 100%;">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.6/lottie.min.js" type="text/javascript"></script>
+    <div id="lottie" style="width: 100%; height: 100;"></div>
   <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=2806854687');
-      });
-    }
-  </script>
-  <script src="main.dart.js" type="application/javascript"></script>
+      var animation = window.bodymovin.loadAnimation({
+        container: document.getElementById('lottie'), // Required
+        path: 'test.json', // Required
+        renderer: 'canvas', // Required
+        loop: true, // Optional
+        autoplay: true, // Optional
+        name: "Hello World", // Name for future reference. Optional.
+        });
+ </script>
 </body>
 </html>
